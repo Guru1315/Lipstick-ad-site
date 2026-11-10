@@ -100,21 +100,4 @@ All taken from the live deployment at 1912 × 871.
 
 Full details are in **[HOW-IT-WORKS.md](HOW-IT-WORKS.md)**.
 
-## 💬 How it was built
-
-Rebuilt with Claude Code, starting with:
-
-```text
-/clone-website https://github.com/alagappan567/lipstick-3d-site-notes
-```
-
-The reference repo has only notes, prompts and screenshots, with no code or images, so this rebuild was made from those. **[HOW-IT-WAS-BUILT.md](HOW-IT-WAS-BUILT.md)** lists every prompt word for word, with what each one did.
-
-This repo holds the showcase only: screenshots, recordings and write-ups. The site's source code isn't included.
-
-## 🙏 Credits
-
-- The design, copy and section ideas come from the notes and screenshots in **[alagappan567/lipstick-3d-site-notes](https://github.com/alagappan567/lipstick-3d-site-notes)**. This is an independent rebuild.
-- Built with [Claude Code](https://claude.com/claude-code).
-
 > **Concept site.** Roselle is a fictional brand. The shades, prices and Black Friday sale are made up. The bag, checkout and "Seal a kiss" code are demos, and nothing is sold.

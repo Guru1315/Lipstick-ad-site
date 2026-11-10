@@ -40,7 +40,7 @@ Push and deploy
 ### 3. Publish the showcase
 
 ```text
-push and commit only that assessts and screenshots and how it works and how it was build with 3d animated readme section with live url in this https://github.com/Guru1315/Lipstick-ad-site
+No Source code is provided in this repo due to some security issues 
 ```
 
 This repo was published with only the showcase: `assets/`, `screenshots/`, [HOW-IT-WORKS.md](HOW-IT-WORKS.md), this file, and the animated README with the live link.

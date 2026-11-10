@@ -1,6 +1,6 @@
 # How it works
 
-The live site is at **https://roselle-lip-lab-delta.vercel.app**. It's one page, built with Next.js 16, React 19, TypeScript, Tailwind CSS v4, Three.js, GSAP ScrollTrigger and Lenis.
+The live site is at **https://guru-lipstick-ad-site.vercel.app/**. It's one page, built with Next.js 16, React 19, TypeScript, Tailwind CSS v4, Three.js, GSAP ScrollTrigger and Lenis.
 
 The reference repo held only notes, prompts and screenshots: no code, photos or video. So everything you see is drawn by code at load time:
 

@@ -1,17 +1,5 @@
 # How it was built
 
-These are the prompts used to build and ship this project with [Claude Code](https://claude.com/claude-code), copied word for word and in order. The notes under each one say what it led to.
-
----
-
-### 1. Start the rebuild
-
-```text
-ok its done now /clone-website https://github.com/alagappan567/lipstick-3d-site-notes
-```
-
-This ran the `clone-website` workflow in an AI website-cloner template (Next.js 16, Tailwind v4).
-
 - **Read the reference.** The repo isn't a website. It holds a README, the author's build notes, the prompts they used for each section, and 11 screenshots of **Roselle**, a Black Friday lipstick store. There's no code, no photos, no video and no live site. So the screenshots were the target and the notes were the spec.
 - **Built it with nothing to copy.**
   - Every lipstick, cap, pedestal, cherry, petal and ingredient is Three.js geometry, and every product shot is rendered from those models.

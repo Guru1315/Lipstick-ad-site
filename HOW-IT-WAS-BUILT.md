@@ -29,7 +29,7 @@
 Push and deploy
 ```
 
-- **Deployed.** A new Vercel project, `roselle-lip-lab`, went to production at **https://roselle-lip-lab-delta.vercel.app**.
+- **Deployed.** A new Vercel project, `roselle-lip-lab`, went to production at **https://guru-lipstick-ad-site.vercel.app/**.
 - **Re-tested live.** Both widths were re-run against the live URL: every chapter, every interaction, no console errors, no failed requests and no sideways scroll.
 - **Built this showcase.** It holds the showcase only, never the source code, and contains:
   - screenshots from the live site at desktop and phone width
